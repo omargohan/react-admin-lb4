@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/elmaistrenko/react-admin-lb4#readme",
   "dependencies": {
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
     "@babel/cli": "^7.2.3",
